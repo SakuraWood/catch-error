@@ -1,0 +1,28 @@
+{
+  "name": "catch-error",
+  "version": "1.0.0",
+  "description": "create try catch code block for js function",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SakuraWood/catch-error.git"
+  },
+  "keywords": [
+    "js",
+    "try",
+    "catch"
+  ],
+  "author": "SakuraWood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SakuraWood/catch-error/issues"
+  },
+  "homepage": "https://github.com/SakuraWood/catch-error#readme",
+  "devDependencies": {
+    "source-map": "^0.5.6",
+    "webpack": "^3.5.5"
+  }
+}
