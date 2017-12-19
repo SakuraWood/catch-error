@@ -1,0 +1,14 @@
+.title {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+#save {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+body,html{
+    width: 100%;
+    height: 100%;
+}
